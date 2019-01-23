@@ -11,6 +11,7 @@ Files:
 CodeBook.md describes the variables, the data, and the cleaning process.
 
 run_analysis.R performs the following: 
+
 0. Prepares and downloads data.
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
