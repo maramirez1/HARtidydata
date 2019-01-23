@@ -6,7 +6,8 @@ This repository is a requirement for the Getting and Cleaning Data course projec
 Dataset
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Files
+Files:
+
 CodeBook.md describes the variables, the data, and the cleaning process.
 
 run_analysis.R performs the following: 
